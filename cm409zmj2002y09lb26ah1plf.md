@@ -1,10 +1,10 @@
 ---
-title: "Demystifying Object-Oriented Programming: Fundamental Ideas and Key Principles (Part 1)"
+title: "Deep Dive into Object-Oriented Programming: Core Ideas and Principles (Part 1)"
 seoTitle: "Intro to Object-Oriented Programming Fundamentals"
 seoDescription: "Discover OOP fundamentals: classes, objects, and association types in this comprehensive guide"
 datePublished: Wed Nov 27 2024 19:25:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm409zmj2002y09lb26ah1plf
-slug: demystifying-object-oriented-programming-fundamental-ideas-and-key-principles-part-1
+slug: deep-dive-into-object-oriented-programming-core-ideas-and-principles-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732716996226/32d40b24-5900-4e84-a998-cef3a7457780.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1732734269427/862eb01f-8d75-47eb-8978-317b33c8ccd5.jpeg
 tags: programming-blogs, java, programming-languages, object-oriented-programming, classes-and-objects
